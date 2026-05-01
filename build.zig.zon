@@ -1,5 +1,5 @@
 .{
-    .name = .tree_sitter_zig,
+    .name = .tree_sitter_python,
     .version = "1.1.2",
 	.fingerprint = 0xb3d0096024cb53de,
     .dependencies = .{
