@@ -1,7 +1,7 @@
 .{
     .name = .tree_sitter_python,
     .version = "1.1.2",
-	.fingerprint = 0xb3d0096024cb53de,
+	.fingerprint = 0x6dfb96261432b926,
     .dependencies = .{
         .tree_sitter = .{
             .url = "git+https://github.com/atlantis-9/zig-tree-sitter.git#ff25e5555fa14d1fd3d71ebe81e59ea9189aa299",
